@@ -2,7 +2,8 @@
 Hosting this static website on S3 bucket using Route 53 as a DNS and Cloudfront and SSL certification to perform https.
 
 1. Creating a Domain name using Route 53
-![image](https://user-images.githubusercontent.com/70505201/226092289-d283071a-4085-4ff8-8049-d06a56843587.png)
+![image](https://user-images.githubusercontent.com/70505201/226093505-5b281467-0d85-42cf-a29e-2d38b25ed51c.png)
+
 
 2. Create an S3 bucket with same name as our domain name, and give it public access with a public policy
 ![image](https://user-images.githubusercontent.com/70505201/226092447-6a10fe2c-f25c-4190-9092-066ef3aaae59.png)
